@@ -1,7 +1,6 @@
 
-# HELLO
+# ESPINOSA ROZOV ALEXANDR
 
-<font size="5" color="b2b5bc" face="Arial">Espinosa Alexander<br>
 <font size="4" color="e8c149" face="Arial">Python Developer<br>
 
 <image src="/telephone2.png" width = "23">
