@@ -7,8 +7,8 @@
  <image src="task3espinosa/telephone.png" width = "23">
  <font size="2" color="b2b5bc" face="Arial">8911 7861595<br>
 
- <image src="/images/email.png" width = "23">
- <font size="2" color="b2b5bc" face="Arial">eraspb@mail.ru
+ <image src="https://eraalex.github.io/task3espinosa/email.png" width = "23">
+ <font size="2" color="b2b5bc" face="Arial"> eraspb@mail.ru
 <br>
 
 <h2>SUMMARY</h2>
