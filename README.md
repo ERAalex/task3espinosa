@@ -2,7 +2,7 @@
 # ESPINOSA ROZOV ALEXANDR
 
 
- <h1><font size="10" color="e8c149" face="Arial">Python Developer<br>
+ <h1><font size="10" color="e8c149" face="Arial">Python Developer</h1><br>
 
  <image src="/telephone2.png" width = "23">
  <font size="2" color="b2b5bc" face="Arial">8911 7861595<br>
