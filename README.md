@@ -11,14 +11,14 @@
 
 <br>
 
-###SUMMARY
+###SUMMARY <br>
 ________________________________________________
-Python developer with 1 year of experience in finance and fintech.
+ <br>Python developer with 1 year of experience in finance and fintech.
 Well-acquainted with database engineering, data warehouses, and data processing.
-Knowledgeable in Python frameworks like Django, Flask. 
+Knowledgeable in Python frameworks like Django, Flask.  <br>
 
-###EDUCATION
-________________________________________________
+###EDUCATION <br>
+________________________________________________  <br>
 ####Python developer
 <font size="2" color="e8c149" face="Arial">Netology Courses. Russia</font></h3><br>
 2021 - 2022
