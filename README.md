@@ -4,10 +4,10 @@
 <font size="4" color="e8c149" face="Arial">Python Developer<br>
 
 <image src="/telephone2.png" width = "23">
-<font size="2" color="b2b5bc" face="Arial">8911 7861595</h3><br>
+<font size="2" color="b2b5bc" face="Arial">8911 7861595<br>
 
 <image src="/images/email.png" width = "23">
-<font size="2" color="b2b5bc" face="Arial">eraspb@mail.ru</h3><br>
+<font size="2" color="b2b5bc" face="Arial">eraspb@mail.ru<br>
 
 <br>
 
@@ -30,9 +30,9 @@ ________________________________________________  <br>
 
 
 ###SKILLS
-________________________________________________
+________________________________________________<br>
 ####Python developer
-<font size="2" color="e8c149" face="Arial">Programming</font></h3><br>
+<br><font size="2" color="e8c149" face="Arial">Programming</font><br>
 
 
 |            |            |       |
@@ -40,13 +40,13 @@ ________________________________________________
 | Python     |    SQL     | Flask |
 | Django     |  |    |
 
-<font size="2" color="e8c149" face="Arial">Databases & Servers</font></h3><br>
+<br><font size="2" color="e8c149" face="Arial">Databases & Servers</font><br>
 
 |            |       |       |
 |------------|:-----:|------:|
 | Django ORM | MySQL | PostgreSQL |
 
-<font size="2" color="e8c149" face="Arial">Development</font></h3><br>
+<br><font size="2" color="e8c149" face="Arial">Development</font><br>
 
 |            |         |        |
 |------------|:-------:|-------:|
@@ -54,8 +54,8 @@ ________________________________________________
 
 <br>
 
-###SKILLS
-________________________________________________
+###SKILLS<br>
+________________________________________________<br>
 ####Python developer
 
 <image src="/images/clock2.png" width = "23"><font size="2" color="e8c149" face="Arial">Time management</font></h3><br>
@@ -64,7 +64,7 @@ Time management
 Prioritizes essential tasks so they are not rushed. Sets deadlines that ensure reaching milestones on time.
 <br>
 
-<image src="/images/rings.png" width = "23"><font size="2" color="e8c149" face="Arial">Adaptability</font></h3><br>
+<image src="/images/rings.png" width = "23"><font size="2" color="e8c149" face="Arial">Adaptability</font><br>
 
 Adaptability
 I remember that change is not personal and is inevitable. I break my projects into multiple parts so that if something goes wrong, I can quickly fix it.
