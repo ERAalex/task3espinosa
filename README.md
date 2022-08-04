@@ -12,25 +12,25 @@
 
 <br>
 
-###<h2>SUMMARY</h2> <br>
+<h2>SUMMARY</h2> <br>
 ________________________________________________
  <br>Python developer with 1 year of experience in finance and fintech.
 Well-acquainted with database engineering, data warehouses, and data processing.
 Knowledgeable in Python frameworks like Django, Flask.  <br>
 
-###EDUCATION <br>
+<h2>EDUCATION</h2> <br>
 ________________________________________________  <br>
-####Python developer
+Python developer
 <font size="2" color="e8c149" face="Arial">Netology Courses. Russia</font></h3><br>
 2021 - 2022
 
 
-####Foreign Languages
+Foreign Languages
 <font size="2" color="e8c149" face="Arial">The Herzen State Pedagogical University of Russia</font></h3><br>
 2008 - 2012  <br>
 
 
-###SKILLS
+<h2>SKILLS</h2>
 ________________________________________________<br>
 ####Python developer
 <br><font size="2" color="e8c149" face="Arial">Programming</font><br>
@@ -53,9 +53,9 @@ ________________________________________________<br>
 
 <br>
 
-###SKILLS<br>
+SKILLS<br>
 ________________________________________________
-<br>####Python developer<br>
+<br>Python developer<br>
 
 <image src="/images/clock2.png" width = "23"><font size="2" color="e8c149" face="Arial">Time management</font><br>
 
