@@ -35,9 +35,7 @@ ________________________________________________<br>
 ####Python developer
 <br><font size="2" color="e8c149" face="Arial">Programming</font><br>
 
-
-|            |            |       |
-|------------|:----------:|------:|
+ 
 | Python     |    SQL     | Flask |
 | Django     |  |    |
 
