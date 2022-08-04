@@ -32,7 +32,7 @@ Foreign Languages
 
 <h2>SKILLS</h2>
 ________________________________________________<br>
-####Python developer
+Python developer
 <br><font size="2" color="e8c149" face="Arial">Programming</font><br>
 
  
