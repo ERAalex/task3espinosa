@@ -2,31 +2,30 @@
 # ESPINOSA ROZOV ALEXANDR
 
 
- <h4><font size="10" color="e8c149" face="Arial">Python Developer</h4><br>
+ <h3><font size="10" color="e8c149" face="Arial">Python Developer<br>
 
  <image src="task3espinosa/telephone.png" width = "23">
  <font size="2" color="b2b5bc" face="Arial">8911 7861595<br>
 
  <image src="/images/email.png" width = "23">
- <font size="2" color="b2b5bc" face="Arial">eraspb@mail.ru<br>
-
+ <font size="2" color="b2b5bc" face="Arial">eraspb@mail.ru
 <br>
 
-<h2>SUMMARY</h2> <br>
+<h2>SUMMARY</h2>
 ________________________________________________
  <br>Python developer with 1 year of experience in finance and fintech.
 Well-acquainted with database engineering, data warehouses, and data processing.
 Knowledgeable in Python frameworks like Django, Flask.  <br>
 
-<h2>EDUCATION</h2> <br>
+<h2>EDUCATION</h2>
 ________________________________________________  <br>
 Python developer
-<font size="2" color="e8c149" face="Arial">Netology Courses. Russia</font></h3><br>
+<font size="2" color="e8c149" face="Arial">Netology Courses. Russia</font>
 2021 - 2022
 
 
 Foreign Languages
-<font size="2" color="e8c149" face="Arial">The Herzen State Pedagogical University of Russia</font></h3><br>
+<font size="2" color="e8c149" face="Arial">The Herzen State Pedagogical University of Russia</font>
 2008 - 2012  <br>
 
 
@@ -41,19 +40,15 @@ Python developer
 
 <br><font size="2" color="e8c149" face="Arial">Databases & Servers</font><br>
 
-|            |       |       |
-|------------|:-----:|------:|
+
 | Django ORM | MySQL | PostgreSQL |
 
 <br><font size="2" color="e8c149" face="Arial">Development</font><br>
 
-|            |         |        |
-|------------|:-------:|-------:|
 | GIT        | PyCharm | Docker |
 
 <br>
 
-SKILLS<br>
 ________________________________________________
 <br>Python developer<br>
 
