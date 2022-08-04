@@ -55,10 +55,10 @@ ________________________________________________<br>
 <br>
 
 ###SKILLS<br>
-________________________________________________<br>
-####Python developer
+________________________________________________
+<br>####Python developer<br>
 
-<image src="/images/clock2.png" width = "23"><font size="2" color="e8c149" face="Arial">Time management</font></h3><br>
+<image src="/images/clock2.png" width = "23"><font size="2" color="e8c149" face="Arial">Time management</font><br>
 
 Time management
 Prioritizes essential tasks so they are not rushed. Sets deadlines that ensure reaching milestones on time.
@@ -76,9 +76,6 @@ I remember that change is not personal and is inevitable. I break my projects in
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-
-<h3 align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e7689&lines=Python+science+specialist)</h3>
 
 
 
