@@ -13,7 +13,7 @@
 
 <h2>SUMMARY</h2>
 ________________________________________________
- <br>Python developer with 1 year of experience in finance and fintech.
+ <br><h4>Python developer with 1 year of experience in finance and fintech.
 Well-acquainted with database engineering, data warehouses, and data processing.
 Knowledgeable in Python frameworks like Django, Flask.  <br>
 
