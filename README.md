@@ -4,10 +4,10 @@
 
  <h3><font size="10" color="e8c149" face="Arial">Python Developer<br>
 
- <image src="https://eraalex.github.io/task3espinosa/telephone.png" width = "23">
+ <image src="https://eraalex.github.io/task3espinosa/telephone.png" width = "30">
  <font size="2" color="b2b5bc" face="Arial">8911 7861595<br>
 
- <image src="https://eraalex.github.io/task3espinosa/email.png" width = "23">
+ <image src="https://eraalex.github.io/task3espinosa/email.png" width = "30">
  <font size="2" color="b2b5bc" face="Arial"> eraspb@mail.ru
 <br>
 
@@ -52,13 +52,13 @@ Python developer
 ________________________________________________
 <br>Python developer<br>
 
-<image src="https://eraalex.github.io/task3espinosa/clock2.png" width = "23"><font size="2" color="e8c149" face="Arial">Time management</font><br>
+<image src="https://eraalex.github.io/task3espinosa/clock2.png" width = "30"><font size="2" color="e8c149" face="Arial">Time management</font><br>
 
 Time management
 Prioritizes essential tasks so they are not rushed. Sets deadlines that ensure reaching milestones on time.
 <br>
 
-<image src="https://eraalex.github.io/task3espinosa/rings.png" width = "23"><font size="2" color="e8c149" face="Arial">Adaptability</font><br>
+<image src="https://eraalex.github.io/task3espinosa/rings.png" width = "30"><font size="2" color="e8c149" face="Arial">Adaptability</font><br>
 
 Adaptability
 I remember that change is not personal and is inevitable. I break my projects into multiple parts so that if something goes wrong, I can quickly fix it.
