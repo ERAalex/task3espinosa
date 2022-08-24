@@ -1,4 +1,6 @@
 
+![Альтернативный текст](/images/clock.png)
+
 # ESPINOSA ROZOV ALEXANDR
 
 
